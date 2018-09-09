@@ -1,2 +1,2 @@
-# Learn-C
-A playlist and steps for learning C
+# Learn C Programming Language
+A playlist and steps for learning C Programming Language.  
